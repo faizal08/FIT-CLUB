@@ -1,2 +1,2 @@
 # fitclub
-Its a responsive gym website
+THIS IS MY RESPONSIVE GYM WEBSITE
